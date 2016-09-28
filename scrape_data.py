@@ -22,3 +22,4 @@ for link in soup.findAll("a"):
 
 csv_file.close()
 # Scrape_data
+# Scrape_data
